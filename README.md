@@ -6,6 +6,9 @@ Domain: Machine Learning
 Duration: September 15th 2024 to October 15th 2024
 
 Overview  of the Project
+
+
+
 Project:LINEAR REGRESSION ON HOUSING PRICES
 Implement linear regression to predict housing prices based on features like
 square footage, number of bedrooms, and location. Use a dataset like the
